@@ -68,8 +68,8 @@ class StringConst {
   static const String SORT_BY = "Sort by";
 
   //Profile Screen
-  static const String USERNAME_2 = "David Legend";
-  static const String USERNAME_EMAIL = "davidcobbina47@gmail.com";
+  static const String USERNAME_2 = " Mirza";
+  static const String USERNAME_EMAIL = "pk.flutter@gmail.com";
   static const String USER_LOCATION = "Ghana, Accra";
   static const String EXIT = "Exit";
   static const String ORDERS_AND_RETURNS = "Orders and returns";
