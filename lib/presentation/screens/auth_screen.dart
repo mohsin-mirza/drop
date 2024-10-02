@@ -12,7 +12,6 @@ import 'package:flutter/material.dart';
 
 const double kPadding = Sizes.PADDING_24;
 
-//TODO:: add borders bubbleTabIndicator
 class AuthScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

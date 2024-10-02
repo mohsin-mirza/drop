@@ -1,6 +1,7 @@
+// ignore_for_file: deprecated_member_use, unused_field
+
 import 'package:drop/values/values.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
   static const _lightFillColor = Colors.black;
